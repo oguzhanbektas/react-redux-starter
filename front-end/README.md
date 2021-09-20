@@ -85,3 +85,11 @@ For Redux :
 5. configureStore da ise bir fonksiyon yardımı ile uygulamada bir store oluşturmak istediğimizi ve onun da rootReducer ı içerdiğini söylüyoruz.
 6. Uygulamanın index js ine reducer ı koyuyuoruz.
 7. Kullanmak istediğimiz component e connect ile bağlıyoruz.
+
+1. actionType
+2. action (productActions)
+3. reducer-> productListReducer
+4. initialState kullanılacak state i oluştur.
+5. index js reducer ekle.
+
+redux tarafı hazır artık.
