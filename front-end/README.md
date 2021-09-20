@@ -75,6 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 3. npm i reactstrap
 4. npm i bootstrap
 5. npm i redux-thunk
+6. npm i alertifyjs
 
 For Redux :
 
