@@ -74,3 +74,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 2. npm i react-redux
 3. npm i reactstrap
 4. npm i bootstrap
+
+For Redux :
+
+1. actionType da actionları yazdık.
+2. Kategori ile ilgili actionları da changeCategory le verdik.Redux in anlayacağı objeye çeviriyoruz.
+3. ChangeCategoryReducer da gelen action a göre hangi actionsa onun state ini payload olarak döndürüyoruz.
+4. index.js de bütün reducerları bir araya getiriyoruz.
+5. configureStore da ise bir fonksiyon yardımı ile uygulamada bir store oluşturmak istediğimizi ve onun da rootReducer ı içerdiğini söylüyoruz.
+6. Uygulamanın index js ine reducer ı koyuyuoruz.
