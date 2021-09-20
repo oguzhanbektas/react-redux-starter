@@ -1,3 +1,3 @@
-export default{
-    currentCategory:{}
+export default {
+    currentCategory: { categoryName: "Beverages" }
 }
