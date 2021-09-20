@@ -74,6 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 2. npm i react-redux
 3. npm i reactstrap
 4. npm i bootstrap
+5. npm i redux-thunk
 
 For Redux :
 
@@ -83,3 +84,4 @@ For Redux :
 4. index.js de bütün reducerları bir araya getiriyoruz.
 5. configureStore da ise bir fonksiyon yardımı ile uygulamada bir store oluşturmak istediğimizi ve onun da rootReducer ı içerdiğini söylüyoruz.
 6. Uygulamanın index js ine reducer ı koyuyuoruz.
+7. Kullanmak istediğimiz component e connect ile bağlıyoruz.
